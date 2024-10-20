@@ -1,0 +1,15 @@
+D:\C# project\ТЗ в MB\ТЗ в MB\bin\Debug\net7.0\ТЗ в MB.exe
+D:\C# project\ТЗ в MB\ТЗ в MB\bin\Debug\net7.0\ТЗ в MB.deps.json
+D:\C# project\ТЗ в MB\ТЗ в MB\bin\Debug\net7.0\ТЗ в MB.runtimeconfig.json
+D:\C# project\ТЗ в MB\ТЗ в MB\bin\Debug\net7.0\ТЗ в MB.dll
+D:\C# project\ТЗ в MB\ТЗ в MB\bin\Debug\net7.0\ТЗ в MB.pdb
+D:\C# project\ТЗ в MB\ТЗ в MB\obj\Debug\net7.0\ТЗ в MB.csproj.AssemblyReference.cache
+D:\C# project\ТЗ в MB\ТЗ в MB\obj\Debug\net7.0\ТЗ в MB.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# project\ТЗ в MB\ТЗ в MB\obj\Debug\net7.0\ТЗ в MB.AssemblyInfoInputs.cache
+D:\C# project\ТЗ в MB\ТЗ в MB\obj\Debug\net7.0\ТЗ в MB.AssemblyInfo.cs
+D:\C# project\ТЗ в MB\ТЗ в MB\obj\Debug\net7.0\ТЗ в MB.csproj.CoreCompileInputs.cache
+D:\C# project\ТЗ в MB\ТЗ в MB\obj\Debug\net7.0\ТЗ в MB.dll
+D:\C# project\ТЗ в MB\ТЗ в MB\obj\Debug\net7.0\refint\ТЗ в MB.dll
+D:\C# project\ТЗ в MB\ТЗ в MB\obj\Debug\net7.0\ТЗ в MB.pdb
+D:\C# project\ТЗ в MB\ТЗ в MB\obj\Debug\net7.0\ТЗ в MB.genruntimeconfig.cache
+D:\C# project\ТЗ в MB\ТЗ в MB\obj\Debug\net7.0\ref\ТЗ в MB.dll

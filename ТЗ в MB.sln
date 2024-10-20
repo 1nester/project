@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ТЗ в MB", "ТЗ в MB\ТЗ в MB.csproj", "{D64F0B36-1371-4902-8F36-AF8AF19D1988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ТЗ в МВ_2", "ТЗ в МВ_2\ТЗ в МВ_2.csproj", "{0028C49E-A725-40E3-A41E-2C57B8152D74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D64F0B36-1371-4902-8F36-AF8AF19D1988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64F0B36-1371-4902-8F36-AF8AF19D1988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64F0B36-1371-4902-8F36-AF8AF19D1988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64F0B36-1371-4902-8F36-AF8AF19D1988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0028C49E-A725-40E3-A41E-2C57B8152D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0028C49E-A725-40E3-A41E-2C57B8152D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0028C49E-A725-40E3-A41E-2C57B8152D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0028C49E-A725-40E3-A41E-2C57B8152D74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
